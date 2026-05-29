@@ -9,7 +9,7 @@ import com.example.lib.Parrot;
 
 
 @Configuration
-@ComponentScan(basePackages = "com.example.lib")
+// @ComponentScan(basePackages = "com.example.lib")
 public class ProjectConfig {
     // @Bean
     // @Primary

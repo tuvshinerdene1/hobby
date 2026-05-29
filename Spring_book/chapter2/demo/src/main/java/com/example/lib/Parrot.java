@@ -2,9 +2,9 @@ package com.example.lib;
 
 import javax.annotation.PostConstruct;
 
-import org.springframework.stereotype.Component;
+// import org.springframework.stereotype.Component;
 
-@Component
+// @Component
 public class Parrot {
     private String name;
 
